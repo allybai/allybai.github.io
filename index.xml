@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ally Bai</title>
+    <link>https://daughter2.tonybai.com/</link>
+    <description>Recent content on Ally Bai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 28 Jul 2020 14:22:50 +0800</lastBuildDate>
+    
+	<atom:link href="https://daughter2.tonybai.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于我</title>
+      <link>https://daughter2.tonybai.com/about/</link>
+      <pubDate>Tue, 28 Jul 2020 14:22:50 +0800</pubDate>
+      
+      <guid>https://daughter2.tonybai.com/about/</guid>
+      <description>我是Ally Bai，小名七月。 我是一名中国小女孩儿，我生活在四季分明的中国东北，和爸爸、妈妈、姐姐、姥姥住在一起。 我还是一个襁褓中的孩子，该博客站点由我的老爸暂替我维护，等我长大后，我将亲自记录我的成长历程。欢迎来自五湖四海、天南海北、世界各地的朋友一同见证我的成长！</description>
+    </item>
+    
+    <item>
+      <title>我出生了</title>
+      <link>https://daughter2.tonybai.com/post/i-was-born/</link>
+      <pubDate>Tue, 28 Jul 2020 14:22:50 +0800</pubDate>
+      
+      <guid>https://daughter2.tonybai.com/post/i-was-born/</guid>
+      <description>我出生了！</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://daughter2.tonybai.com/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daughter2.tonybai.com/archives/</guid>
+      <description>title: &amp;ldquo;归档&amp;rdquo; description: 文章归档 type: archives</description>
+    </item>
+    
+  </channel>
+</rss>
